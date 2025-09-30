@@ -37,11 +37,10 @@ open index.html
 
 ## 📖 使用 / Usage  
 
-- 打开网站即可浏览乐谱、乐器与多媒体资料。  
+- 打开网站即可浏览乐谱、乐器与多媒体资料。 
+  Browse scores, instruments, and media directly from the homepage.  
 - 可直接点击页面导航进入「乐曲」「乐器」「媒体」等模块。  
-
-- Browse scores, instruments, and media directly from the homepage.  
-- Use the navigation bar to explore *Musical Works*, *Instruments*, and *Media*.  
+  Use the navigation bar to explore *Musical Works*, *Instruments*, and *Media*.  
 
 ---
 
@@ -55,10 +54,9 @@ No APIs yet — future versions will include APIs for media access and compositi
 ## 🤝 贡献 / Contributing  
 
 - 提交 **Pull Request** 或 **Issue** 即可。  
+  Submit **Pull Requests** or open **Issues**.
 - 欢迎改进前端、添加新资源或翻译。  
-
-- Submit **Pull Requests** or open **Issues**.  
-- Contributions welcome: frontend fixes, new resources, or translations.  
+  Contributions welcome: frontend fixes, new resources, or translations.  
 
 ---
 
