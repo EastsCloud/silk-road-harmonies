@@ -37,7 +37,7 @@ open index.html
 
 ## 📖 使用 / Usage  
 
-- 打开网站即可浏览乐谱、乐器与多媒体资料。 
+- 打开网站即可浏览乐谱、乐器与多媒体资料。  
   Browse scores, instruments, and media directly from the homepage.  
 - 可直接点击页面导航进入「乐曲」「乐器」「媒体」等模块。  
   Use the navigation bar to explore *Musical Works*, *Instruments*, and *Media*.  
