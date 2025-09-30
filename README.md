@@ -28,7 +28,7 @@ This is a **static site (HTML, CSS, JS)**, no extra setup required.
 
 本地运行（可选） / Run locally (optional):  
 ```bash
-git clone https://github.com/<your-username>/silk-road-harmonies.git
+git clone https://github.com/EastsCloud/silk-road-harmonies.git
 cd silk-road-harmonies
 open index.html
 ```
